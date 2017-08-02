@@ -1,0 +1,4 @@
+:2015 {
+  log stdout
+  timeouts 1m
+}
